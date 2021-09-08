@@ -1,4 +1,4 @@
-## Platinum-Wars v 0.1 - 08 Sept 2021
+## Platinum-Wars v0.1 - 08 Sept 2021
 
 # Description
 Small game written in ruby. Currently unfinished. The project began the 30th Aug 2021.
