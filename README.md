@@ -10,7 +10,9 @@ to be made
 
 # Requirements
 - Ruby 2.2.6 (only tested with 2.2.6, but should work with newer versions)
+
 Ruby Gems:
+
 - Gosu 0.10.8 (only tested with 0.10.8, but should work with newer versions)
 
 # User Manual
