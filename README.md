@@ -5,6 +5,8 @@ Small game written in ruby. Currently unfinished. The project began the 30th Aug
 The project was inspired by the Steam Guide "Platinum Wars" on the Space Engineers Workshop, by IronMan9904.
 The game is intended to be a standalone version of this.
 
+https://steamcommunity.com/sharedfiles/filedetails/?id=1364925862&insideModal=0&requirelogin=1
+
 # Screenshots
 ![screenshot map_editor](Mapeditor_img.PNG)
 
