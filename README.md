@@ -6,7 +6,7 @@ The project was inspired by the Steam Guide "Platinum Wars" on the Space Enginee
 The game is intended to be a standalone version of this.
 
 # Screenshots
-to be made
+![screenshot map_editor](Mapeditor_img.PNG)
 
 # Requirements
 - Ruby 2.2.6 (only tested with 2.2.6, but should work with newer versions)
